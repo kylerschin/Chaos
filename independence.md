@@ -1,6 +1,6 @@
 
-A Declaration of the Independence of Cyberspace
-by John Perry Barlow
+# A Declaration of the Independence of Cyberspace
+## by John Perry Barlow
 
 Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.
 
@@ -34,5 +34,5 @@ These increasingly hostile and colonial measures place us in the same position a
 
 We will create a civilization of the Mind in Cyberspace. May it be more humane and fair than the world your governments have made before.
 
-Davos, Switzerland
-February 8, 1996
+### Davos, Switzerland
+### February 8, 1996
